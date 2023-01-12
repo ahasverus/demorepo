@@ -1,3 +1,3 @@
 data("iris")
 
-head(iris)
+head(iris[ , 1:2])
